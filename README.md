@@ -74,10 +74,6 @@ Food_Ordering_System/
 3. **Initialize Data** (if empty):
    - First menu GET/POST will auto-init `menu.json`.
 
-4. **Test**:
-   - Menu: `GET /api/menu`
-   - Register: `POST /api/register` with JSON `{mobile, name, email?, password}`
-
 ## API Endpoints
 All endpoints under `/api/`. CORS enabled. JSON input/output.
 
