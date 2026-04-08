@@ -1,0 +1,57 @@
+[
+    {
+        "category": "Main Dishes",
+        "items": [
+            {
+                "id": 1,
+                "name": "Shawarma with Salad",
+                "price": 149
+            },
+            {
+                "id": 2,
+                "name": "Shawarma without Salad",
+                "price": 149
+            }
+        ]
+    },
+    {
+        "category": "Fries & Sides",
+        "items": [
+            {
+                "id": 3,
+                "name": "French Fries",
+                "price": 79
+            },
+            {
+                "id": 4,
+                "name": "Chicken Nuggets",
+                "price": 99
+            },
+            {
+                "id": 5,
+                "name": "Chicken Wings",
+                "price": 129
+            },
+            {
+                "id": 6,
+                "name": "Chicken Popcorn",
+                "price": 99
+            },
+            {
+                "id": 7,
+                "name": "Mad",
+                "price": 155
+            }
+        ]
+    },
+    {
+        "category": "GRILL",
+        "items": [
+            {
+                "id": 1,
+                "name": "retro",
+                "price": 139
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "6823b4225f81c",
+        "name": "naveen",
+        "mobile": "9553038091",
+        "password": "$2y$10$GeOJJSxRiYYqmF25mBnNLOtiVpI05obi4HlZAdlsO\/IIXzpfuaOPi",
+        "referralCode": "NAV8091",
+        "createdAt": "2025-05-13 21:05:38"
+    },
+    {
+        "id": "68248f5fd73fd",
+        "name": "Aashvi",
+        "mobile": "7207360783",
+        "password": "$2y$10$YjLVGywkgw17NM.SPG4TCuMVmpaavC\/FLeiyzL.4AcbsogIWymAfW",
+        "referralCode": "AAS0783",
+        "createdAt": "2025-05-14 12:41:03"
+    }
+]

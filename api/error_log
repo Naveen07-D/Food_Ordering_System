@@ -1,0 +1,121 @@
+[10-Jun-2025 11:59:14 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:14 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:17 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:17 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:20 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:20 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:23 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:23 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:26 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:26 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:41 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[10-Jun-2025 11:59:41 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[11-Jun-2025 03:39:43 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 /home/xdpy3ruurwb1/public_html/api/index.php(8): require('/home/xdpy3ruur...')
+#3 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[17-Jul-2025 17:45:29 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 /home/xdpy3ruurwb1/public_html/api/index.php(8): require('/home/xdpy3ruur...')
+#3 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[18-Aug-2025 13:20:59 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 /home/xdpy3ruurwb1/public_html/api/index.php(8): require('/home/xdpy3ruur...')
+#3 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[19-Aug-2025 01:34:24 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 /home/xdpy3ruurwb1/public_html/api/index.php(8): require('/home/xdpy3ruur...')
+#3 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[21-Aug-2025 03:00:24 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 /home/xdpy3ruurwb1/public_html/api/index.php(8): require('/home/xdpy3ruur...')
+#3 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[23-Sep-2025 03:23:41 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 /home/xdpy3ruurwb1/public_html/api/index.php(8): require('/home/xdpy3ruur...')
+#3 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+[15-Feb-2026 01:30:06 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/home/xdpy3ruurwb1/public_html/api/../.env]. in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /home/xdpy3ruurwb1/public_html/api/api.php(8): Dotenv\Dotenv->load()
+#2 /home/xdpy3ruurwb1/public_html/api/index.php(8): require('/home/xdpy3ruur...')
+#3 {main}
+  thrown in /home/xdpy3ruurwb1/public_html/api/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
